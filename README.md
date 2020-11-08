@@ -28,7 +28,7 @@ This is the current version of the SuperLearner R package (version 2.*).
 
 ```r
 # install.packages("remotes")
-remotes::install_github("ecpolley/SuperLearner")
+remotes::install_github("QuantumTCode/SuperLearner")
 ```
 
 ### Install the current release from CRAN:
